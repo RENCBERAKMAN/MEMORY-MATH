@@ -63,9 +63,10 @@ MemoryMath was a small project with big lessons. It helped me understand how gam
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBoOHYxN3dmejE3dDdtZDAxYjcybXhiODJqaXVscnA4bXg0eHExOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP502/giphy.gif" alt="Code End" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aD6WzRQ0H8dfb6U/giphy.gif" alt="Terminal Code Running" width="300"/>
 </p>
 
+<p align="center"><i>"Build. Run. Debug. Repeat. That's how worlds are born."</i></p>
 
 <p align="center">
   <b>"Game development isn't just about making games — it's about learning how to think."</b>
