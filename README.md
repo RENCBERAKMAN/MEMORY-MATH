@@ -54,11 +54,7 @@ On the interface side, I learned to keep the **UI minimal and functional**, buil
 
 ---
 
-## 📸 Screenshots
 
-> *Add your own gameplay screenshots here using GitHub's `![Alt](image_url)` syntax.*
-
----
 
 ## 🔚 Final Thoughts
 
@@ -67,7 +63,7 @@ MemoryMath was a small project with big lessons. It helped me understand how gam
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZmbjh2cnJ2M3I4b3Jub3V2cWRtbzB6Ym55YWl0ZzllNmcwNnR2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FLdmIp6wJr91JAI/giphy.gif" alt="Game End" width="500"/>
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Coding Debug" width="500"/>
 </p>
 
 <p align="center">
