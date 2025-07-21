@@ -5,9 +5,6 @@
   <img src="https://img.icons8.com/color/96/000000/blender-3d.png" alt="Blender" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZtbmFqMHlvZGFva2d3bXJ1d2NmbTNoODJ1eHRlZjFqMThyb2J2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gNbnTdiA7YkMFKBqkH/giphy.gif" alt="Game Dev Animation" width="600"/>
-</p>
 
 ---
 
@@ -63,10 +60,8 @@ MemoryMath was a small project with big lessons. It helped me understand how gam
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6WzRQ0H8dfb6U/giphy.gif" alt="Terminal Code Running" width="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=30&fontColor=ffffff" />
 </p>
-
-<p align="center"><i>"Build. Run. Debug. Repeat. That's how worlds are born."</i></p>
 
 <p align="center">
   <b>"Game development isn't just about making games — it's about learning how to think."</b>
