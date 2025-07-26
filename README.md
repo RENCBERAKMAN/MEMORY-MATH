@@ -6,7 +6,6 @@
 </p>
 
 
----
 
 # 🎮 MemoryMath — Stretch Your Memory With Code
 
@@ -33,14 +32,14 @@ This was more than just a game — it was a dive into real-world development. He
 - ✅ Fixing compiler and linker errors confidently  
 - ✅ Structuring cleaner, readable, and reusable code
 
----
+--
 
 ## 🛠 Blender & UI
 
 I created a simple, clean card model in **Blender** to ensure visual consistency.  
 On the interface side, I learned to keep the **UI minimal and functional**, building it directly within **UMG**.
 
----
+--
 
 ## 🔧 Tech Stack
 
@@ -49,7 +48,7 @@ On the interface side, I learned to keep the **UI minimal and functional**, buil
 - 📐 **Blender**  
 - 🎨 **UMG** (UI Design)
 
----
+--
 
 
 
@@ -57,7 +56,7 @@ On the interface side, I learned to keep the **UI minimal and functional**, buil
 
 MemoryMath was a small project with big lessons. It helped me understand how gameplay mechanics, UI systems, and code structure come together to form an interactive experience.
 
----
+--
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=30&fontColor=ffffff" />
